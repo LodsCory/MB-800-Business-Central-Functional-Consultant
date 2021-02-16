@@ -28,66 +28,68 @@ data.
 
 ### Steps
 
-1.  Create a new company.
+1.  Create a new company by clicking on the search tool in the black bar at the top of the screen and typing in **Companies*.
 
-   1.  In the **Companies** page, select **New** and then, **Create New
-        Company**
+2.  On the **Companies** page, select **New** and then, **Create New
+    Company**
 
-   2.  The **Create New Company** wizard opens.
+3.  The **Create New Company** wizard opens.
 
-   3.  Click **Next**.
+4.  Click **Next**.
 
-   4.  As the company name, enter Contoso ‘*student name*’ Inc. (Replace
-        ‘*student name’* with your name so that each student has its own company
-        within the training database.)
+5.  As the company name, enter Contoso ‘*student name*’ Inc. (Replace
+    ‘*student name’* with your name so that each student has its own company
+    within the training database.)
 
-   5.  Select the option **Production – Setup Data Only**.
+6.  Select the option **Production – Setup Data Only**.
 
-   6.  Click **Next**.
+7.  Click **Next**.
 
-   7.  Skip the **Manage Users** option by clicking **Next**.
+8.  Skip the **Manage Users** option by clicking **Next**.
 
-   8.  Click **Finish** to create the company.
+9.  Click **Finish** to create the company.
 
-2.  Complete the **Company Setup** wizard.
+    **Note:** Company setup could take 10 to 15 minutes. Please wait until status shows **Complete** 
 
-   1.  To open the new company, go to the **My Settings** page.
+10.  Complete the **Company Setup** wizard.
 
-   2.  Open the assist edit button to the right of the **Company** textbox.
+11.  To open the new company, go to the **My Settings** page by clicking on the gear icon in the black bar at the top of the page. 
 
-   3.  In the window that opens, select “Contoso ‘*student name*’ Inc.” and
-        click **OK**.
+12.  Open the assist edit button (box with the ellipsys) to the right of the **Company** textbox.
 
-   4.  Click **OK**.
+13.  In the window that opens, select “Contoso ‘*student name*’ Inc.” and
+    click **OK**.
 
-   5.  The new company opens and the **Company Setup** wizard automatically
-        opens.
+14.  Click **OK**.
 
-   6.  Click **Next**.
+15.  The new company opens and the **Company Setup** wizard automatically
+    opens.
 
-   7.  Fill in the company’s address information.
+16.  Click **Next**.
 
-   8.  Click **Next**.
+17.  Fill in the company’s address information.
 
-   9.  Specify the company’s contact details.
+18.  Click **Next**.
 
-   10. Click **Next**.
+19.  Specify the company’s contact details.
 
-   11. Disable the **Use a bank feed service** option.
+20. Click **Next**.
 
-   12. Click **Next**.
+21. Disable the **Use a bank feed service** option.
 
-   13. Skip the company’s bank information by clicking **Next**.
+22. Click **Next**.
 
-   14. In the **Fiscal Year Start Date** field, enter 1/1/2021.
+23. Skip the company’s bank information by clicking **Next**.
 
-   15. Click **Next**.
+24. In the **Fiscal Year Start Date** field, enter 1/1/2021.
 
-   16. Leave the costing method set to the default value ‘FIFO’.
+25. Click **Next**.
 
-   17. Click **Next**.
+26. Leave the costing method set to the default value ‘FIFO’.
 
-   18. Click **Finish** to start using the company.
+27. Click **Next**.
+
+28. Click **Finish** to start using the company.
 
 ## Exercise 2: Configure a new company
 
@@ -110,39 +112,39 @@ You will start by copying the following data from the default CRONUS company:
 
 ### Steps
 
-1.  Complete the configuration worksheet.
+1.  Complete the **Configuration Worksheet** by clicking on the search tool in the black bar at the top of the screen and typing in **Configuration Worksheet**.
 
-   1.  Open the **Configuration Worksheet** page.
+2.  Open the **Configuration Worksheet** page.
 
-   2.  At the bottom of the worksheet, enter a new line.
+3.  At the bottom of the worksheet, enter a new line.
 
-   3.  In the **Line Type** field, select **Group.**
+4.  In the **Line Type** field, select **Group.**
 
-   4.  In the **Name** field, enter ‘General Setup’.
+5.  In the **Name** field, enter ‘General Setup’.
 
-   5.  Enter a new line.
+6.  Enter a new line.
 
-   6.  In the **Line Type** field, select **Table**.
+7.  In the **Line Type** field, select **Table**.
 
-   7.  Open the assist edit button to the right of the **Table ID** field.
+8.  Open the assist edit button (ellipsys) to the right of the **Table ID** field.
 
-   8.  Search for ‘ZIP Code’, select table 225 and click **OK** to enter the ID
-        in the **Table ID** field.
+9.  Search for ‘ZIP Code’, select table 225 and click **OK** to enter the ID
+    in the **Table ID** field.
 
-   9.  Repeat steps e. to h. to enter table 10 Shipment Method.
+10.  Repeat steps **1** thru **9** to enter table 10 Shipment Method.
 
-2.  Copy data from another database company.
+11.  Copy data from another database company.
 
-   1.  In the menu on the **Configuration Worksheet** page, select **Actions**,
-        then **Tools** and then **Copy Data from Company**.
+12.  In the menu on the **Configuration Worksheet** page, select **Actions**,
+    then **Tools** and then **Copy Data from Company**.
 
-   2.  Open the assist edit button to the right of the **Copy from** field.
+13.  Open the assist edit button to the right of the **Copy from** field.
 
-   3.  Select ‘Cronus USA Inc.’ and click **OK** to enter the company in the
-        **Copy from** field.
+14.  Select ‘Cronus USA Inc.’ and click **OK** to enter the company in the
+    **Copy from** field.
 
-   4.  Select the lines with the tables for ZIP codes and shipment methods.
+15.  Select the lines with the tables for ZIP codes and shipment methods.
 
-   5.  In the menu select **Copy Data**.
+16.  In the menu select **Copy Data**.
 
-   6.  The data is now copied in the new company.
+17.  The data is now copied in the new company.
